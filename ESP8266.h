@@ -1,6 +1,9 @@
 /*
   ESP8266.h - Library for controlling the ESP8266 Wifi Module
   Created by Angel Hernandez, February 7, 2015.
+  
+  Modified for the Teensy3.x Board
+  By Jim Mayhugh 02/23/2015
   Released into the public domain.
 */
 
